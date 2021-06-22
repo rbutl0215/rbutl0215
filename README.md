@@ -1,6 +1,6 @@
 # Hello world! 👋
 
----
+My name is Reid Butler, and I currently work as a Software Engineer at Anheuser-Busch in NYC.
 
 ## Welcome to my Github 
 <!--
