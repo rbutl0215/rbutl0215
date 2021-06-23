@@ -1,8 +1,8 @@
 # Hello world! 👋
 
-My name is Reid Butler, and I currently work as a Software Engineer at Anheuser-Busch in NYC.
+Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world ([Morton, IL](http://local.townsquarepublications.com/illinois/morton/morton1.html)). I'm passionate about creating products that users love and constantly building and improving my skills as an engineer. I currently work at Anhueser-Busch where I get to work on problems about **beer** and **software**.
 
-## Welcome to my Github 
+## Technologies & Tools
 <!--
 **rbutl0215/rbutl0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
