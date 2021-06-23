@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world ([Morton, IL](http://local.townsquarepublications.com/illinois/morton/morton1.html)). I'm passionate about creating products that users love and constantly building and improving my skills as an engineer. I currently work at Anhueser-Busch where I get to work on problems about **beer** and **software**.
+Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world ([Morton, IL](http://local.townsquarepublications.com/illinois/morton/morton1.html)). I'm passionate about creating products that users love and constantly expanding my skills as an engineer. I currently work at Anhueser-Busch where I get to solve problems about **beer** and **software**.
 
 ## Technologies & Tools
 <!--
