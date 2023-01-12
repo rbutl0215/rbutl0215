@@ -13,11 +13,11 @@ Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of
 ![](https://img.shields.io/badge/Tools-Azure%20Data%20Studio-blueviolet)
 ![](https://img.shields.io/badge/Version%20Control-Git-brightgreen)
 
-## Github Stats 📈
+<!-- ## Github Stats 📈
 
 <a href="https://github.com/rbutl0215/rbutl0215">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbutl0215&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reid's GitHub Stats" />
-</a>
+</a> -->
 
 <!--
 **rbutl0215/rbutl0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
