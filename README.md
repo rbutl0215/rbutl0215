@@ -1,10 +1,10 @@
 # Hello world! 👋
 
-Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world, Morton, IL. I'm passionate about creating products that users love and constantly expanding my skills as an engineer. I currently work at Anheuser-Busch where I get to solve problems about **beer** and **software**.
+Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world, Morton, IL. I'm passionate about creating products that users love and constantly expanding my skills as an engineer. I currently work at a startup in NYC called Confido. Check us out [here](https://www.confidotech.com/).
 
 ## Technologies & Tools 🔧
 
-![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Code-Ruby-blue)
 ![](https://img.shields.io/badge/Code-Typescript-blue)
 ![](https://img.shields.io/badge/Framework-ReactJS-orange)
 ![](https://img.shields.io/badge/Framework-NestJS-orange)
