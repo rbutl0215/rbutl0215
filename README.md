@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world, Morton, IL. I'm passionate about creating products that users love and constantly expanding my skills as an engineer. I currently work at a startup in NYC called Confido. Check us out [here](https://www.confidotech.com/).
+Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world, Morton, IL. I'm passionate about creating products that users love and constantly expanding my skills as an engineer.
 
 ## Technologies & Tools 🔧
 
