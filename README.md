@@ -1,17 +1,11 @@
 # Hello world! 👋
 
-Hi, I'm Reid Butler. A self-taught Software Engineer from the pumpkin capital of the world, Morton, IL. I'm passionate about creating products that users love and constantly expanding my skills as an engineer.
+Hi, I'm Reid. Don't do [this](https://www.youtube.com/watch?v=y8OnoxKotPQ).
 
-## Technologies & Tools 🔧
-
-![](https://img.shields.io/badge/Code-Ruby-blue)
-![](https://img.shields.io/badge/Code-Typescript-blue)
-![](https://img.shields.io/badge/Framework-ReactJS-orange)
-![](https://img.shields.io/badge/Framework-NestJS-orange)
-![](https://img.shields.io/badge/Query-GQL-green)
-![](https://img.shields.io/badge/Tools-VSCode-blueviolet)
-![](https://img.shields.io/badge/Tools-Azure%20Data%20Studio-blueviolet)
-![](https://img.shields.io/badge/Version%20Control-Git-brightgreen)
+- 🔭 Currently working on building enterprise AI for manufacturing companies
+- 🌱 Deep-diving into WebGPU and various edge inference techniques
+- 👯 Looking to collaborate on creative, community-driven software experiments  
+- ⚡ Fun fact: I'm from the pumpkin capital of the world 
 
 <!-- ## Github Stats 📈
 
