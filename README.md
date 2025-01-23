@@ -5,7 +5,6 @@ Hi, I'm Reid. Don't do [this](https://www.youtube.com/watch?v=y8OnoxKotPQ).
 - 🔭 Currently working on building enterprise AI for manufacturing companies
 - 🌱 Deep-diving into WebGPU and various edge inference techniques
 - 👯 Looking to collaborate on creative, community-driven software experiments  
-- ⚡ Fun fact: I'm from the pumpkin capital of the world 
 
 <!-- ## Github Stats 📈
 
